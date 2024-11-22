@@ -44,11 +44,11 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/jefersonprimer/podcast.git
+git clone https://github.com/jefersonprimer/ai-podcast.git
 ```
 
 ```bash
-cd podcast
+cd ai-podcast
 ```
 
 **Installation**
